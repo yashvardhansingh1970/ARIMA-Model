@@ -199,7 +199,7 @@ st.pyplot(fig)
 
 
 start_date = '2024-03-04'
-end_date = '2024-03-14'
+end_date = '2024-03-15'
 
 check_df = yf.download(user_input, start=start_date, end=end_date)
 check_df.reset_index(inplace=True)
