@@ -182,7 +182,7 @@ pred_future = model.predict(start=end,end=end+10)
 # pred_future
 
 import datetime
-start_date = datetime.datetime(2024,03,04)
+start_date = datetime.datetime(2024,3,4)
 dates = [start_date + datetime.timedelta(days=idx) for idx in range(11)]
 
 pred_future2 = pd.Series(pred_future, index = dates)
