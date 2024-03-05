@@ -182,7 +182,7 @@ pred_future = model.predict(start=end,end=end+10)
 # pred_future
 
 import datetime
-start_date = datetime.datetime(2023,12,18)
+start_date = datetime.datetime(2024,03,04)
 dates = [start_date + datetime.timedelta(days=idx) for idx in range(11)]
 
 pred_future2 = pd.Series(pred_future, index = dates)
@@ -198,8 +198,8 @@ st.pyplot(fig)
 
 
 
-start_date = '2023-12-08'
-end_date = '2023-12-18'
+start_date = '2024-03-04'
+end_date = '2024-03-14'
 
 check_df = yf.download(user_input, start=start_date, end=end_date)
 check_df.reset_index(inplace=True)
