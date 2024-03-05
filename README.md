@@ -19,3 +19,4 @@ showcase the predicted results, while 95% confidence interval plot assists users
 comprehending the momentum range of their chosen stock. This project serves as a valuable 
 tool for investors, aiding them in making informed decisions and effectively managing 
 investment risks.
+Link to the project: https://tableautest-mhf3a9ap8vqlrjci37nurw.streamlit.app/
