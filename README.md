@@ -1,3 +1,4 @@
+# ARIMA
 This project presents an interactive stock price prediction dashboard, leveraging machine 
 learning models such as ARIMA and LSTM. The dashboard, developed using Streamlit and 
 Plotly, empowers users to forecast stock prices for any given stock ticker. The primary dataset 
@@ -19,4 +20,4 @@ showcase the predicted results, while 95% confidence interval plot assists users
 comprehending the momentum range of their chosen stock. This project serves as a valuable 
 tool for investors, aiding them in making informed decisions and effectively managing 
 investment risks.
-Link to the project: https://tableautest-mhf3a9ap8vqlrjci37nurw.streamlit.app/
+To run:Download all files and type "streamlit run ARIMA.py" in your command prompt 
