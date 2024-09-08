@@ -1,4 +1,4 @@
-# ARIMA
+# Assessing-Financial-Market-Assets-Value using Time Series Forecasting Model 
 This project presents an interactive stock price prediction dashboard, leveraging machine 
 learning models such as ARIMA and LSTM. The dashboard, developed using Streamlit and 
 Plotly, empowers users to forecast stock prices for any given stock ticker. The primary dataset 
